@@ -12,3 +12,13 @@ A simple demo of the Paint Application:-
 Loading a simple image to edit in the Application:-
 
 <img src="Images/load.png" height="500" width="100%">
+
+Some features of the editor:-
+
+Black & White Effect                  |                   Contrast Effect
+:---------------------------------:        |      :------------------------------:
+<img src="Images/bw.png" height="250" width="50%">     |      <img src="Images/contrast.png" height="250" width="50%">
+
+Blur Image Effect                  |                   Sharp Image Effect
+:---------------------------------:        |      :------------------------------:
+<img src="Images/blur.png" height="250" width="50%">     |      <img src="Images/sharp.png" height="250" width="50%">
